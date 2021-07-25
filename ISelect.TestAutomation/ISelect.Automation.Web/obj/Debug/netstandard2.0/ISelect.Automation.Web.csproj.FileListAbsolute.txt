@@ -1,0 +1,12 @@
+D:\rnd\sarsu\ISelect.TestAutomation\ISelect.Automation.Web\bin\Debug\netstandard2.0\ISelect.Automation.Web.deps.json
+D:\rnd\sarsu\ISelect.TestAutomation\ISelect.Automation.Web\bin\Debug\netstandard2.0\ISelect.Automation.Web.dll
+D:\rnd\sarsu\ISelect.TestAutomation\ISelect.Automation.Web\bin\Debug\netstandard2.0\ISelect.Automation.Web.pdb
+D:\rnd\sarsu\ISelect.TestAutomation\ISelect.Automation.Web\bin\Debug\netstandard2.0\ISelect.Automation.Common.dll
+D:\rnd\sarsu\ISelect.TestAutomation\ISelect.Automation.Web\bin\Debug\netstandard2.0\ISelect.Automation.Common.pdb
+D:\rnd\sarsu\ISelect.TestAutomation\ISelect.Automation.Web\obj\Debug\netstandard2.0\ISelect.Automation.Web.csprojAssemblyReference.cache
+D:\rnd\sarsu\ISelect.TestAutomation\ISelect.Automation.Web\obj\Debug\netstandard2.0\ISelect.Automation.Web.AssemblyInfoInputs.cache
+D:\rnd\sarsu\ISelect.TestAutomation\ISelect.Automation.Web\obj\Debug\netstandard2.0\ISelect.Automation.Web.AssemblyInfo.cs
+D:\rnd\sarsu\ISelect.TestAutomation\ISelect.Automation.Web\obj\Debug\netstandard2.0\ISelect.Automation.Web.csproj.CoreCompileInputs.cache
+D:\rnd\sarsu\ISelect.TestAutomation\ISelect.Automation.Web\obj\Debug\netstandard2.0\ISelect.Automation.Web.csproj.CopyComplete
+D:\rnd\sarsu\ISelect.TestAutomation\ISelect.Automation.Web\obj\Debug\netstandard2.0\ISelect.Automation.Web.dll
+D:\rnd\sarsu\ISelect.TestAutomation\ISelect.Automation.Web\obj\Debug\netstandard2.0\ISelect.Automation.Web.pdb

@@ -1,0 +1,9 @@
+D:\rnd\sarsu\ISelect.TestAutomation\ISelect.Automation.Common\bin\Debug\netstandard2.0\ISelect.Automation.Common.deps.json
+D:\rnd\sarsu\ISelect.TestAutomation\ISelect.Automation.Common\bin\Debug\netstandard2.0\ISelect.Automation.Common.dll
+D:\rnd\sarsu\ISelect.TestAutomation\ISelect.Automation.Common\bin\Debug\netstandard2.0\ISelect.Automation.Common.pdb
+D:\rnd\sarsu\ISelect.TestAutomation\ISelect.Automation.Common\obj\Debug\netstandard2.0\ISelect.Automation.Common.AssemblyInfoInputs.cache
+D:\rnd\sarsu\ISelect.TestAutomation\ISelect.Automation.Common\obj\Debug\netstandard2.0\ISelect.Automation.Common.AssemblyInfo.cs
+D:\rnd\sarsu\ISelect.TestAutomation\ISelect.Automation.Common\obj\Debug\netstandard2.0\ISelect.Automation.Common.csproj.CoreCompileInputs.cache
+D:\rnd\sarsu\ISelect.TestAutomation\ISelect.Automation.Common\obj\Debug\netstandard2.0\ISelect.Automation.Common.dll
+D:\rnd\sarsu\ISelect.TestAutomation\ISelect.Automation.Common\obj\Debug\netstandard2.0\ISelect.Automation.Common.pdb
+D:\rnd\sarsu\ISelect.TestAutomation\ISelect.Automation.Common\obj\Debug\netstandard2.0\ISelect.Automation.Common.csprojAssemblyReference.cache
