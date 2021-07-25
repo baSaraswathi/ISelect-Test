@@ -1,8 +1,8 @@
-#Manual test
+# Manual test
 * Added manual test cases using bdd
 * Usually I use my own excel based test case template
 
-#Automation test
+# Automation test
 Used Xunit, SpecFlow and Selenium with C#. Created lighter version of framework 
 
 ## important points
